@@ -1,0 +1,80 @@
+/* Global */
+body {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color:  black;
+    background-color: white;
+}
+/* Header */
+
+.style_logo_img {
+    height: 50px;
+    object-fit: cover;
+}
+.style_nav_list {
+    list-style: none;
+}
+.style_nav_link {
+    font-family: "Bebas Neue", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:  black;
+}
+.hero {
+    background-color: skyblue;
+}
+
+.hero_heading {
+    font-size: 60px;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.hero_button {
+    color: white;
+}
+
+/* News */
+.news_heading, .regions_heading {
+    font-size: 32px;
+    font-family:"Bebas Neue", sans-serif ;
+}
+
+.news_list {
+    list-style: none;
+}
+
+.news_item_img {
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+}
+
+/* Aside */
+.aside {
+    background-color: skyblue;
+}
+
+/* Regions */
+.regions_list {
+list-style: none;
+}
+
+.regions_link {
+    font-size: 24px;
+    font-family: "Bebas Neue", sans-serif ;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: grey;
+}
+
+/* Following */
+.following {
+    background-color: skyblue;
+}
